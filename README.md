@@ -22,14 +22,6 @@ Despite widespread adoption of Gradient Boosting Decision Trees (GBDT), practiti
 ├── LICENSE
 ├── README.md
 ├── github_setup.sh
-├── arxiv/
-│   ├── main.tex
-│   ├── main.pdf
-│   └── figures/
-├── jis-lr/
-│   ├── main.tex
-│   ├── main.pdf
-│   └── figures/
 └── src/
     ├── ex1_model_comparison_linearity.py
     ├── ex2_low_interaction_comparison.py

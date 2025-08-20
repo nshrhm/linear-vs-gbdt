@@ -41,3 +41,7 @@ Thumbs.db
 github_setup.sh
 LICENSE_old
 README_old.md
+
+# LaTeX paper directories
+arxiv/
+jis-lr/
