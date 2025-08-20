@@ -36,3 +36,8 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# GitHub setup script
+github_setup.sh
+LICENSE_old
+README_old.md
